@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://3qa1x51fs16y3izzkn3upb2i-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/Black_marble.jpg);
+  background-repeat: repeat;
+  background-size: 150px 150px;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: blue;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2{
+  font-family: "Rancho";
+  color: #fff;
+  text-align: center;
+  font-size: 80px
+  }
+
+
+
+p#Body {
+  color: papayawhip;
+  text-align: center;
+  font-size: 25px;
+  font: "Lucida Console", Monaco, monospace;
+}
+
+p#two{
+  color: goldenrod;
+  text-align: center;
+  font: "Arial Black", Gadget, sans-serif;
+  font-size: 20px;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90px;
+  height: auto;
+}
